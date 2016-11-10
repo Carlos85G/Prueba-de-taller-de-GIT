@@ -1,1 +1,3 @@
 Este es el archivo que hemos creado remotamente.
+
+Hemos cambiado la extensión
